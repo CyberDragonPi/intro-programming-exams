@@ -14,4 +14,4 @@ This repository contains C implementations of exam problems covering fundamental
 - Standard library
 
 ## Note
-This repository is intended for educational and reference purpos
+This repository is intended for educational and reference purposes.
